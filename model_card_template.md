@@ -6,16 +6,16 @@ For additional information see the Model Card paper: https://arxiv.org/pdf/1810.
 This classification model was trained using the 1994 Census Bureau dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/20/census+income). The goal is to predict whether an individual’s annual income exceeds $50,000 based on a set of demographic and socio-economic features, including:
 * Sex
 * Race
-*Marital status
-*Age
-*Native country
-*Education
-*Relationship status
-*Occupation
-*Hours worked per week
-*Work class
-*Capital gain
-*Capital loss
+* Marital status
+* Age
+* Native country
+* Education
+* Relationship status
+* Occupation
+* Hours worked per week
+* Work class
+* Capital gain
+* Capital loss
 
 ## Intended Use
 Primary use: Predicting income category for individuals based on demographic and economic data.
